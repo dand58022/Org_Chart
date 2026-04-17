@@ -1,0 +1,8 @@
+ServiceNow_CMDB_DEV.js
+__pycache__/
+.tools/
+
+# Local/generated intermediate files
+org_chart
+org_chart_lr.dot
+org_chart.unflattened.dot
